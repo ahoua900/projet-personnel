@@ -1,0 +1,97 @@
+
+
+header{
+display:flex;
+height: 100px; 
+width: 100%;
+margin-bottom:1%;
+background-color: #f5f6fa;
+}
+h1{
+float: left;
+margin-right: 15%;
+margin-bottom: 1%;
+display:block;
+margin-top: 3%;
+margin-left: 6%;
+text-transform: uppercase;
+}
+#divsearch{
+margin-top: 3%;
+width: 60%;
+margin-right:2%;
+}
+#submit{
+border: hidden;
+background-color: #2f3640;
+color: white;
+height: 35px;
+font-size: 20px; 
+margin-left:0%;
+width:7%;
+}
+#bouton1{
+border: hidden;
+background-color: #718093;
+color: black;
+height: 35px;
+font-size: 20px; 
+margin-left:0%; 
+}
+#bouton2{
+border: hidden;
+background-color: #ff9f43;
+color: black;
+height: 35px;
+font-size: 20px; 
+margin-left:0%; 
+width: 22%;
+}
+#nav{
+display: flex;
+margin-right: 5%;
+margin-left: 7%;
+}
+a{
+font-size: 22px;
+text-decoration: none;
+color: black;
+font-family: Snell Roundhand, cursive;
+}
+#ici{
+margin-bottom: 6%;
+}
+#section2{
+display: flex;
+width: 100%;
+margin-bottom: 3%;
+margin-top: -1%;
+}
+#section3{
+display: flex;
+width: 100%;
+}
+img{
+width: 87%;
+height: 220px;
+}
+#under{
+display: inline-block;
+}
+
+.footer{
+height: 30px;
+border: 2px solid red;
+border-radius: 50px;
+text-decoration: none;
+
+}
+.pfooter{
+margin-top:8%;
+text-align:center;
+font-size: 15px;
+font-weight: bold;
+background-color: black;
+color: white;
+margin-bottom: -2%;
+}
